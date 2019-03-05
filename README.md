@@ -1,4 +1,4 @@
-# User Authentication in Sinatra
+rake db:migrate# User Authentication in Sinatra
 
 ## Overview
 
